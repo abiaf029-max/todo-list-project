@@ -166,7 +166,7 @@ while True:
     elif choice == "3":
         delete_task(tasks)
 
-    elif choice == "4":
+    elif choice == "4": 
         mark_complete(tasks)
 
     elif choice == "5":
